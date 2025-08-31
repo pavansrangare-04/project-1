@@ -1,4 +1,5 @@
 # project-1
 this is my first git repository
 <br>
-Author-pavan srangare
+Author-pavan {global collage}
+
